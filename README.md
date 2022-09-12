@@ -18,6 +18,10 @@ When you access http://phpinfo.local at the first time the PHPStorm will promote
 
 Install PHP Debug
 
+## Note
+
+We are missing Favicon so the debug run twice
+
 ## Ref
 
 https://matthewsetter.com/setup-step-debugging-php-xdebug3-docker/
